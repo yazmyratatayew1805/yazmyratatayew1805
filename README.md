@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials
-[[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/myrat_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/myrat_dev)
 
 
 
@@ -20,9 +20,9 @@
 
 ## 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=saparovkakajandov06&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saparovkakajandov06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saparovkakajandov06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yazmyratatayew1805&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yazmyratatayew1805&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yazmyratatayew1805&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saparovkakajandov06&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
