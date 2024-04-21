@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Hi+👋+My+name+is+Yazmyrat+Atayew)](https://yazmyrat.ru)
-
+<h3 align="center">Laravel backend developer</h3>
 
 
 ## 🌐 Socials
