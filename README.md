@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Hi+👋+My+name+is+Yazmyrat+Atayew)](https://yazmyrat.ru)
-<h3 align="center">Laravel backend developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 
 ## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/myrat_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/yazodev)
 
 
 
