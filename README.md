@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/yazodev)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/myrat_coder)
 
 
 
